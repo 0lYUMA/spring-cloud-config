@@ -1,6 +1,6 @@
 token:
   expiration_time: 864000000
-  secret: my_tokenz_default
+  secret: my_tokenz_dev
 
 gateway:
   ip: 192.168.219.112
